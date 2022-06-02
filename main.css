@@ -3,7 +3,6 @@ body {
   background-position: bottom 10px left 10px;
   background-repeat: no-repeat;
   background-size: 20%;
-  background: linear-gradient(270deg, rgb(248, 252, 255), rgb(230, 230, 230));
   background-attachment: fixed;
 }
 
