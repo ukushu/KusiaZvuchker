@@ -4,6 +4,7 @@ body {
   background-repeat: no-repeat;
   background-size: 18%;
   background-attachment: fixed;
+  background-color: ddd;
 }
 
 ul {
