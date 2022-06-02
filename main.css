@@ -6,8 +6,8 @@ body {
   background-attachment: fixed;
 }
 
-li {
-  margin: 0 10;
+ul {
+  margin: 10 0;
 }
 
 .red {
