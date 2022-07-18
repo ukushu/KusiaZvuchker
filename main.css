@@ -27,14 +27,14 @@ ul {
   opacity: 0.7;
 }
 
-@media (max-resolution: 1dppx) {
+@media (max-width: 600px) {
   .resumeWrapper {
     width:400px; 
     margin: 40px auto 200 auto;
     }
 }
 
-@media (min-resolution: 1dppx) {
+@media (min-width: 601px) {
   .resumeWrapper {
     width:800px; 
     margin: 40px auto 200 auto;
