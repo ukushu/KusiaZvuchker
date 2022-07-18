@@ -26,3 +26,17 @@ ul {
   color: black;
   opacity: 0.7;
 }
+
+@media only screen and (max-width: 400px) {
+  .resumeWrapper {
+    width:400px; 
+    margin: 40px auto 200 auto;
+    }
+}
+
+@media only screen and (min-width: 400px) {
+  .resumeWrapper {
+    width:800px; 
+    margin: 40px auto 200 auto;
+    }
+}
