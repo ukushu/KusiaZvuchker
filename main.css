@@ -27,6 +27,16 @@ ul {
   opacity: 0.7;
 }
 
+.youtubeVideo {
+  max-width:730; 
+  height:300; 
+}
+  
+.youtubeAudio {
+  max-width:730; 
+  height:70; 
+}
+
 @media (max-width: 600px) {
   .resumeWrapper {
     width:400px; 
@@ -38,15 +48,5 @@ ul {
   .resumeWrapper {
     width:800px; 
     margin: 40px auto 200 auto;
-  }
-  
-  .youtubeVideo {
-    width:730; 
-    height:300; 
-  }
-  
-  .youtubeAudio {
-    width:730; 
-    height:70; 
   }
 }
