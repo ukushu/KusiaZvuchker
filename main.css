@@ -31,12 +31,22 @@ ul {
   .resumeWrapper {
     width:400px; 
     margin: 40px auto 200 auto;
-    }
+  }
 }
 
 @media (min-width: 601px) {
   .resumeWrapper {
     width:800px; 
     margin: 40px auto 200 auto;
-    }
+  }
+  
+  .youtubeVideo {
+    width:730; 
+    height:300; 
+  }
+  
+  .youtubeAudio {
+    width:730; 
+    height:70; 
+  }
 }
