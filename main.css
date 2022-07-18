@@ -28,12 +28,12 @@ ul {
 }
 
 .youtubeVideo {
-  max-width:730; 
+  width:730; 
   height:300; 
 }
   
 .youtubeAudio {
-  max-width:730; 
+  width:730; 
   height:70; 
 }
 
